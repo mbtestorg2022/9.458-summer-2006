@@ -23,11 +23,72 @@ This six-week summer workshop explored different aspects of PD, including clinic
 Calendar
 --------
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 | Cognition in Parkinson's Disease |
-| 2 | Neuropathology and Structural Neuroimaging in Parkinson's Disease |
-| 3 | Genetics of Parkinson's Disease |
-| 4 | Cognitive Control Processes and Working Memory in Parkinson's Disease |
-| 5 | A Systems Neuroscience Approach to Memory |
-| 6 | Long-term Declarative Memory in Parkinson Disease
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Cognition in Parkinson's Disease
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Neuropathology and Structural Neuroimaging in Parkinson's Disease
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Genetics of Parkinson's Disease
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Cognitive Control Processes and Working Memory in Parkinson's Disease
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+A Systems Neuroscience Approach to Memory
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Long-term Declarative Memory in Parkinson Disease
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
