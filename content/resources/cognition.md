@@ -17,6 +17,7 @@ description: Almost 200 years after James Parkinson (1817) first reported the di
   unaffected in PD.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/9-458-parkinsons-disease-workshop-summer-2006/190c4650766bc75a8d61acbd479f3be6_cognition.pdf
 file_type: application/pdf
+parent_uid: c2b1ef22-ff04-704a-753c-dacd507791e0
 resourcetype: Document
 title: cognition.pdf
 uid: 190c4650-766b-c75a-8d61-acbd479f3be6

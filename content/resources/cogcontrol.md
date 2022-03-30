@@ -18,6 +18,7 @@ description: 'Early stage idiopathic Parkinson''s disease (PD) is characterized 
   lobe lesions, and then compares them to the executive deficits seen in PD.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/9-458-parkinsons-disease-workshop-summer-2006/9f57ff6ace389e2491a9749cc8a9d7ea_cogcontrol.pdf
 file_type: application/pdf
+parent_uid: c2b1ef22-ff04-704a-753c-dacd507791e0
 resourcetype: Document
 title: cogcontrol.pdf
 uid: 9f57ff6a-ce38-9e24-91a9-749cc8a9d7ea

@@ -23,6 +23,7 @@ description: 'Parkinson''s disease (PD) has long been considered to be a sporadi
   exposure.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/9-458-parkinsons-disease-workshop-summer-2006/c2ea109f36bdf0095cc7b66861423efa_intro_genetics.pdf
 file_type: application/pdf
+parent_uid: c2b1ef22-ff04-704a-753c-dacd507791e0
 resourcetype: Document
 title: intro_genetics.pdf
 uid: c2ea109f-36bd-f009-5cc7-b66861423efa
